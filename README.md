@@ -1,36 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
+# 💫Syart
+
+**`A passionate C++ and Python developer`**
+
+I'm a Python and C++ developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code.I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) for more than 100 subscribers.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syartdev&label=Profile%20views&color=0e75b6&style=flat" alt="syartdev" /> </p>
+
+- 🌱 I’m currently learning **C++**
+
+- 🔭 I'm currently working on **nothing😭**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SyartDev](https://github.com/SyartDev)
+
+- 📫 How to reach me **business.syart@gmail.com**
+
+- ⚡ Fun fact **I'm funny**
+
+  </p>
+     <p align="left">
+      <a href="https://www.youtube.com/@SyartDev?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCvUTZdSVPsafHUClN-VxjjQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@SyartDev">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCvUTZdSVPsafHUClN-VxjjQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/SyartDev?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SyartDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/SyartDev?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SyartDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/UunqzYFHPX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ortonikc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ortoni) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@letcode) 
+### 🧰 Languages and Tools
 
-[![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
-# ▶️ Recent videos:
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Better assertion less failures | Selenium vs Playwright - Part 3](https://ytcards.demolab.com/?id=FqKLY_2iepc&title=Better+assertion+less+failures+%7C+Selenium+vs+Playwright+-+Part+3&lang=en&timestamp=1688460162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Better assertion less failures | Selenium vs Playwright - Part 3")](https://www.youtube.com/watch?v=FqKLY_2iepc)
-[![There is no Element Click Intercepted Exception | Selenium VS Playwright - Part 2](https://ytcards.demolab.com/?id=49A0m5rwm9w&title=There+is+no+Element+Click+Intercepted+Exception+%7C+Selenium+VS+Playwright+-+Part+2&lang=en&timestamp=1688405234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "There is no Element Click Intercepted Exception | Selenium VS Playwright - Part 2")](https://www.youtube.com/watch?v=49A0m5rwm9w)
-[![There is no Stale Element Reference Exception | Selenium VS Playwright - Part 1](https://ytcards.demolab.com/?id=WkZAWuRqlVw&title=There+is+no+Stale+Element+Reference+Exception+%7C+Selenium+VS+Playwright+-+Part+1&lang=en&timestamp=1688379341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "There is no Stale Element Reference Exception | Selenium VS Playwright - Part 1")](https://www.youtube.com/watch?v=WkZAWuRqlVw)
-[![Reuse login authentication | Playwright & Cucumber - Typescript | Part 12](https://ytcards.demolab.com/?id=zYUZujrURq0&title=Reuse+login+authentication+%7C+Playwright+%26+Cucumber+-+Typescript+%7C+Part+12&lang=en&timestamp=1688208121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Reuse login authentication | Playwright & Cucumber - Typescript | Part 12")](https://www.youtube.com/watch?v=zYUZujrURq0)
-[![Pass Tags from CLI | Playwright & Cucumber - Typescript | Part 11](https://ytcards.demolab.com/?id=nlYf3M0z6UM&title=Pass+Tags+from+CLI+%7C+Playwright+%26+Cucumber+-+Typescript+%7C+Part+11&lang=en&timestamp=1688197895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Pass Tags from CLI | Playwright & Cucumber - Typescript | Part 11")](https://www.youtube.com/watch?v=nlYf3M0z6UM)
-[![Page Object Model with Cucumber | Playwright & Cucumber - Typescript | Part 10](https://ytcards.demolab.com/?id=kl6jR6vHqZg&title=Page+Object+Model+with+Cucumber+%7C+Playwright+%26+Cucumber+-+Typescript+%7C+Part+10&lang=en&timestamp=1681200439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Page Object Model with Cucumber | Playwright & Cucumber - Typescript | Part 10")](https://www.youtube.com/watch?v=kl6jR6vHqZg)
-<!-- END YOUTUBE-CARDS -->
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ortonikc&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ortonikc&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+#
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 Stats
 
----
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/letcode) 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyartDev&show_icons=true&theme=github_dark)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=SyartDev&theme=gruvbox&border_radius=4.5)) -->
+
+
+<details>
+<summary><h3>👨‍💻 Syart's Coding Journey</h3></summary>
+   My coding journey began at the age of 12 with Python. Even at a young age, I quickly learned the fundamentals and became skilled in the language. With each line of code I wrote, my abilities improved, and my passion for programming grew stronger.
+As I gained more confidence in Python, I craved new challenges. At 13, I explored other languages like C++, eager to discover their unique capabilities. Through self-study, online resources, and hands-on experimentation, my understanding of C++ grew steadily.
+I found YouTube to be an invaluable learning tool. Countless tutorials and educational videos fueled my curiosity and helped me refine my programming skills. I also dedicated numerous hours to testing my abilities, pushing myself to solve complex problems and make my code more efficient.
+</details>
+ 
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/syart"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syart" /></a><a href="https://ko-fi.com/syart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="syart" /></a></p><br><br>
