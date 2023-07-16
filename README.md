@@ -114,7 +114,7 @@ I'm a Python and C++ developer. All programming projects are developed from scra
   </p>
 </details>
 
-<details><sumary>📊 Stats</sumary>
+<details><summary>📊 Stats</summary>
   
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyartDev&show_icons=true&theme=github_dark)
 
