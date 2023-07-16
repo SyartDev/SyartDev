@@ -6,7 +6,7 @@
 
 **`Web & App Developer/Content Creator)`**
 
-I'm a Web & App developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code.I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) for more than 100 subscribers.
+I'm a Web & App developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code. I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) road to 100 follower.
 
   </p>
      <p align="left">
