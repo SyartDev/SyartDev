@@ -133,5 +133,5 @@ I found YouTube to be an invaluable learning tool. Countless tutorials and educa
 <p><a href="https://www.buymeacoffee.com/syart"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syart" /></a><a href="https://ko-fi.com/syart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="syart" /></a></p>
 <br>
 <br> 
-
+<br>
 📬Contact me: business.syart@gmail.com
