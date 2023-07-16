@@ -7,15 +7,6 @@
 I'm a Python and C++ developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code.I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) for more than 100 subscribers.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syartdev&label=Profile%20views&color=0e75b6&style=flat" alt="syartdev" /> </p>
 
-- 🌱 I’m currently learning **C++**
-
-- 🔭 I'm currently working on **nothing😭**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SyartDev](https://github.com/SyartDev)
-
-- 📫 How to reach me **business.syart@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
 
   </p>
      <p align="left">
@@ -31,7 +22,7 @@ I'm a Python and C++ developer. All programming projects are developed from scra
 
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h3>🛠️ My Favorite Tools</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming Languages</h3>
