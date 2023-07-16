@@ -109,7 +109,7 @@ I'm a Web & App developer. All programming projects are developed from scratch, 
   
 ![Syart's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyartDev&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SyartDev&theme=github_dark&border_radius=4.5)) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=SyartDev&theme=github_dark&border_radius=4.5)
 </details>
 
 
