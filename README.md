@@ -1,8 +1,7 @@
 # 💫Syart
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-stack+web+%26+app+developer;3%2B+years+of+coding+experience++;Cyber+Security;Always+learning+new+things)](https://git.io/typing-svg)
-
-**`A passionate C++ and Python developer`**
+**`Web & App Developer/Content Creator)`**
 
 I'm a Python and C++ developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code.I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) for more than 100 subscribers.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syartdev&label=Profile%20views&color=0e75b6&style=flat" alt="syartdev" /> </p>
