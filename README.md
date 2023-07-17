@@ -66,6 +66,7 @@ I'm a Web & App developer. All programming projects are developed from scratch, 
   <p>
       <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-FE7A16?logo=pycharm&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="CLion" src=" https://img.shields.io/badge/-CLion-GA7A16?logo=clion&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
