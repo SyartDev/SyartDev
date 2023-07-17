@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-stack+web+%26+app+developer;3%2B+years+of+coding+experience++;Cyber+Security;Always+learning+new+things)](https://git.io/typing-svg)
 
-
 **`Web & App Developer/Content Creator)`**
 
 I'm a Web & App developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code. I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) road to 100 follower.
