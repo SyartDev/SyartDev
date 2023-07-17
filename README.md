@@ -22,9 +22,8 @@ I'm a Web & App developer. All programming projects are developed from scratch, 
 
 <details>
    <summary><h3>📺 Latest YouTube Videos </h3></summary>
-
 <!-- BEGIN YOUTUBE-CARDS -->
-
+  
 <!-- END YOUTUBE-CARDS -->
 </details>
 
