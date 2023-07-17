@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-stack+web+%26+app+developer;3%2B+years+of+coding+experience++;Cyber+Security;Always+learning+new+things)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syartdev&label=Profile%20views&color=0e75b6&style=flat" alt="syartdev" /> </p>
 
 **`Web & App Developer/Content Creator)`**
 
