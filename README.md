@@ -21,7 +21,7 @@ I'm a Web & App developer. All programming projects are developed from scratch, 
 </p>
 
 <details>
-   <summary>📺 Latest YouTube Videos</summary>
+   <summary><h3>📺 Latest YouTube Videos </h3></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![How to Level Up Your Programming](https://ytcards.demolab.com/?id=WFRvz7LDUeI&title=How+to+Level+Up+Your+Programming&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=601 "How to Level Up Your Programming")](https://www.youtube.com/watch?v=WFRvz7LDUeI)
