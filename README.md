@@ -6,6 +6,8 @@
 
 I'm a Web & App developer. All programming projects are developed from scratch, from planning and design to solving real-world problems with code. I publish this content on my YouTube channel [SyartDev](https://youtube.com/@SyartDev) road to 100 follower.
 
+📬Contact me: business.syart@gmail.com
+
   </p>
      <p align="left">
       <a href="https://www.youtube.com/@SyartDev?sub_confirmation=1">
@@ -101,8 +103,5 @@ I found YouTube to be an invaluable learning tool. Countless tutorials and educa
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/syart"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syart" /></a><a href="https://ko-fi.com/syart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="syart" /></a></p>
-<br>
-<br> 
-<br>
 
-📬Contact me: business.syart@gmail.com
+
