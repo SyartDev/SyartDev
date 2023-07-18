@@ -27,7 +27,7 @@ I'm a Web & App developer. All programming projects are developed from scratch, 
   
  <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Wer bin ich?](https://ytcards.demolab.com/?id=unexzWj5osk&title=Wer+bin+ich%3F&lang=en&timestamp=1689621849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Wer bin ich?")](https://www.youtube.com/watch?v=unexzWj5osk)
+
 <!-- END YOUTUBE-CARDS -->
  <!-- prettier-ignore-end -->
 
