@@ -1,8 +1,8 @@
 # 💫Syart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-stack+web+%26+app+developer;3%2B+years+of+coding+experience++;Cyber+Security;Always+learning+new+things)](https://youtube.com/@programmiererwerden)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&random=true&width=550&height=60&lines=Cyber+Security+Expert;Ethical+Hacker+with+3%2B+Years'+Experience" alt="Typing SVG"/></a>](https://twitter.com/xCryptoInfo)
 
-**`Web & App Developer/Crypto Trader`**
+**`Cyber Security & Crypto Trader`**
 
 <details>
 <summary><h3>👨‍💻 Syart's Coding Journey</h3></summary>
