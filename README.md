@@ -6,7 +6,5 @@
 
 <details>
 <summary> 👨‍💻 My Journey</summary>
-My coding journey began at the age of 12 with Python. Even at a young age, I quickly learned the fundamentals and became skilled in the language. With each line of code I wrote, my abilities improved, and my passion for programming grew stronger.
-As I gained more confidence in Python, I craved new challenges. At 13, I explored other languages like C++, eager to discover their unique capabilities. Through self-study, online resources, and hands-on experimentation, my understanding of C++ grew steadily.
-I found YouTube to be an invaluable learning tool. Countless tutorials and educational videos fueled my curiosity and helped me refine my programming skills. I also dedicated numerous hours to testing my abilities, pushing myself to solve complex problems and make my code more efficient.
+My journey into cybersecurity and ethical hacking began with a fascination for coding at age 11. Starting with Python, I quickly mastered its fundamentals. However, my interest shifted towards cybersecurity at age 14, leading me to explore ethical hacking. Through self-study and online resources, I honed my skills in areas like penetration testing and vulnerability assessment. My dedication to cybersecurity grew as I delved deeper into the field, continuously pushing myself to learn and adapt to new challenges.
 </details>
