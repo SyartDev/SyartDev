@@ -10,7 +10,6 @@ My journey into cybersecurity and ethical hacking began with a fascination for c
 </details>
 
 
-
 <details>
 <summary>Support My Work</summary>
 
@@ -18,8 +17,9 @@ If you find my projects helpful or valuable, consider supporting me by donating.
 
 ### Cryptocurrency Donations:
 - **Bitcoin (BTC):** `YOUR_BTC_ADDRESS` <img src="https://raw.githubusercontent.com/SyartDev/SyartDev/main/Bitcoin.png" alt="Bitcoin" width="20" height="20">
-- **Ethereum (ETH):** `YOUR_ETH_ADDRESS` <img src="https://raw.githubusercontent.com/SyartDev/SyartDev/main/Ethereum.png" alt="Ethereum" width="20" height="20"> [![Donate ETH](ETH_DONATE_LINK)](ETH_DONATE_LINK)
-- **Solana (SOL):** `YOUR_SOL_ADDRESS` <img src="SOL_IMAGE_URL" alt="Solana" width="20" height="20"> [![Donate SOL](SOL_DONATE_LINK)](SOL_DONATE_LINK)
+- **Ethereum (ETH):** `YOUR_ETH_ADDRESS` <img src="https://raw.githubusercontent.com/SyartDev/SyartDev/main/Ethereum.png" alt="Ethereum" width="20" height="20">
+- **Solana (SOL):** `YOUR_SOL_ADDRESS` <img src="https://raw.githubusercontent.com/SyartDev/SyartDev/main/Sol.png" alt="Solana" width="20" height="20">
 
 Thank you for your generosity!
 </details>
+
