@@ -18,7 +18,7 @@ If you find my projects helpful or valuable, consider supporting me by donating.
 ### Cryptocurrency Donations:
 - **Bitcoin <img src="Bitcoin.png" alt="Bitcoin" width="20" height="20">:** `soon` 
 - **Ethereum <img src="Ethereum.png" alt="Ethereum" width="20" height="20">:** `soon` 
-- **Solana <img src="Sol.png" alt="Solana" width="20" height="20">:** `soon`
+- **Solana <img src="Sol.png" alt="Solana" width="20" height="20">:** `BFciMoUU5gqLpRXvRvrQUDaVGhKW5uDwEVmzZsefRb8C`
 
 Thank you for your generosity!
 </details>
