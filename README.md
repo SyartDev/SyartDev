@@ -8,3 +8,8 @@
 <summary> 👨‍💻 My Journey</summary>
 My journey into cybersecurity and ethical hacking began with a fascination for coding at age 11. Starting with Python, I quickly mastered its fundamentals. However, my interest shifted towards cybersecurity at age 14, leading me to explore ethical hacking. Through self-study and online resources, I honed my skills in areas like penetration testing and vulnerability assessment. My dedication to cybersecurity grew as I delved deeper into the field, continuously pushing myself to learn and adapt to new challenges.
 </details>
+
+<details>
+<summary>Donate</summary>
+
+</details>
