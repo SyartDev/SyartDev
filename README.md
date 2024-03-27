@@ -17,10 +17,10 @@
 <br />
   
 <details>
-  
-<summary> 👨‍💻Meine Reise</summary>
-  ...
+  <summary>👨‍💻Meine Reise</summary>
+  <div style="padding-left: 40px;"> <!-- Adjust the padding as needed -->
+    ...
+  </div>
 </details>
-
 
 
