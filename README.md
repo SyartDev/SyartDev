@@ -2,8 +2,9 @@
 
 **`14 Jahre alt | aus der Schweiz`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=Hobby+Software+Developer;Dream+Job%3A+Software+Developer;Work+hard+for+my+goal)]()
+Als 14-jähriger Hobby-Softwareentwickler aus der Schweiz habe ich seit meinem zwölften Lebensjahr eine Leidenschaft für das Programmieren entwickelt. Mit zwei Jahren Erfahrung in C++, Python und JavaScript habe ich bereits eine solide Basis in verschiedenen Programmiersprachen aufgebaut. Ich liebe es, kreative Lösungen für technische Probleme zu finden und mich ständig weiterzuentwickeln, um meine Fähigkeiten zu verbessern. Als junger Entwickler strebe ich danach, mein Wissen zu vertiefen und innovative Projekte zu realisieren.
 
+# 
 
 
   <h3>🧰 Programmiersprachen und Tools</h3>
