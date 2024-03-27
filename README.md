@@ -1,7 +1,6 @@
 # 💫Syart
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=Hobby+Software+Developer;Dream+Job%3A+Software+Developer;Work+hard+for+my+goal)]()
-
 #
 
 **`14 Jahre alt🧑‍💻| aus der Schweiz🚩`**
