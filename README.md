@@ -4,7 +4,7 @@
 
 #
 
-**`Cyber Security & Ethical Hacker`**
+**`14 Jahre alt🧑‍💻| Schweiz 🇨🇭`**
 
 <h3>🧰 Languages and Tools</h3>
 
