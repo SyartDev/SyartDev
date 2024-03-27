@@ -4,7 +4,7 @@
 
 #
 
-**`14 Jahre alt🧑‍💻| Schweiz Google (Noto Color Emoji - Unicode 15.1)`**
+**`14 Jahre alt🧑‍💻| Schweiz`🇨🇭**
 
 <h3>🧰 Languages and Tools</h3>
 
