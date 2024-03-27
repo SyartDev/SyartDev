@@ -1,4 +1,4 @@
-# 👋Syart
+# 👋 Syart
 
 **`14 Jahre alt👨‍💻 | aus der Schweiz`**
 
