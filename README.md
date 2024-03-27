@@ -28,7 +28,7 @@
 #
 
 <details>
-<summary> # ♥️ Support My Work</summary>
+<summary> ♥️ Support My Work</summary>
 
 If you find my projects helpful or valuable, consider supporting me by donating. Your contributions help me dedicate more time and effort to create and maintain open-source projects.
 
