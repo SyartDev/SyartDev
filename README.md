@@ -4,7 +4,7 @@
 
 #
 
-**`14 Jahre alt🧑‍💻| Schweiz🚩`**
+**`14 Jahre alt🧑‍💻| aus der Schweiz🚩`**
 
 <h3>🧰 Languages and Tools</h3>
 
