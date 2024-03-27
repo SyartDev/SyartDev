@@ -14,7 +14,9 @@
   <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <br clear="all"/>
-<br />
+<br /> 
+
+#
 
 <details>
   <summary>👨‍💻Meine Reise</summary>
