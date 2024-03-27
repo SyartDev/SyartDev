@@ -13,7 +13,6 @@ Als 14-jähriger Hobby-Softwareentwickler aus der Schweiz habe ich seit meinem z
   <img align="left" alt="JavaScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Visual Studio Code" width="60px" style="padding-right:10px;" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" />
   <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <br clear="all"/>
 <br /> 
