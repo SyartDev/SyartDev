@@ -1,6 +1,6 @@
 # 💫Syart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines=Software+Developer)](https://twitter.com/xCryptoInfo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=Hobby+Software+Developer;Dream+Job%3A+Software+Developer)]
 
 **`Cyber Security & Ethical Hacker`**
 
