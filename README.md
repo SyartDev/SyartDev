@@ -5,7 +5,7 @@
 **`Cyber Security & Ethical Hacker`**
 
 <details>
-<summary>👨‍💻src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=F7F7F7&random=false&width=435&lines=My+Journey" alt="Typing SVG" </summary>
+<summary>👨‍💻My Journey </summary>
 My journey into coding and cybersecurity began with a fascination for coding at the age of 11. I started learning Python and quickly mastered its fundamentals. However, my interest shifted towards cybersecurity when I was 14 years old. I pursued an apprenticeship and further education in the field. During this time, I honed my skills in areas such as penetration testing and vulnerability assessment. My dedication to cybersecurity continued to grow as I delved deeper into the field, constantly pushing myself to learn and adapt to new challenges.
 </details>
 
