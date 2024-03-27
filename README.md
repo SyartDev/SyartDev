@@ -20,25 +20,3 @@
 
 #
 
-<details>
-<summary> 👨‍💻My Journey </summary>
-  ...
-</details>
-
-#
-
-<details>
-<summary> ♥️ Support My Work</summary>
-
-If you find my projects helpful or valuable, consider supporting me by donating. Your contributions help me dedicate more time and effort to create and maintain open-source projects.
-
-#
-
-### Cryptocurrency Donations:
-- **Bitcoin <img src="Bitcoin.png" alt="Bitcoin" width="20" height="20">:** `soon` 
-- **Ethereum <img src="Ethereum.png" alt="Ethereum" width="20" height="20">:** `soon` 
-- **Solana <img src="Sol.png" alt="Solana" width="20" height="20">:** `BFciMoUU5gqLpRXvRvrQUDaVGhKW5uDwEVmzZsefRb8C`
-
-Thank you for your generosity!
-</details>
-
