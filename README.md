@@ -22,7 +22,7 @@
 #
 
 <details>
-<summary> #👨‍💻My Journey </summary>
+<summary> 👨‍💻My Journey </summary>
 </details>
 
 #
