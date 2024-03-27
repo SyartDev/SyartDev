@@ -21,6 +21,7 @@
 
 <details>
 <summary> 👨‍💻My Journey </summary>
+  ...
 </details>
 
 #
