@@ -22,7 +22,11 @@ Als 14-jähriger Hobby-Softwareentwickler aus der Schweiz habe ich seit meinem z
 <details>
   <summary>👨‍💻Meine Reise</summary>
   <div style="padding-left: 40px;">
-    <!-- Hier kommt der Inhalt von "Meine Reise" -->
+    Meine Reise begann im Alter von 9 Jahren, als ich meinen ersten PC bekam. In den folgenden Jahren verbrachte ich viel Zeit damit, Spiele zu spielen und die Möglichkeiten dieses faszinierenden Werkzeugs zu erkunden. Doch mit 11 bis 12 Jahren begann ich mich zu fragen, wie all diese Programme erstellt wurden, die ich täglich benutzte. Ich wurde neugierig und stellte mir viele Fragen darüber, wie Software entwickelt wird.
+Daraufhin entschied ich mich, selbst in die Welt des Programmierens einzutauchen. Mit Python fand ich eine freundliche und zugängliche Einstiegssprache. Ich verbrachte Stunden damit, die Grundlagen zu erlernen und kleine Projekte umzusetzen. Mit der Zeit gewann ich Sicherheit und beherrschte Python.
+Doch mein Durst nach Wissen war noch lange nicht gestillt. Ich war entschlossen, noch tiefer in die Welt des Codens einzutauchen. Deshalb wagte ich mich an C++, eine mächtige und vielseitige Programmiersprache, die mich vor neue Herausforderungen stellte. Es war eine steile Lernkurve, aber ich war entschlossen und überwand jede Hürde.
+Als ich das Fundament gelegt hatte, wagte ich den nächsten Schritt und tauchte in die Welt des Webentwicklungs mit JavaScript ein. Die Möglichkeiten schienen grenzenlos, und ich war fasziniert davon, wie dynamische und interaktive Webseiten erstellt werden konnten
+So begann meine Reise als Hobby-Softwareentwickler - von neugierigen Anfängen bis hin zur Beherrschung mehrerer Programmiersprachen. Doch meine Reise ist noch lange nicht zu Ende. Ich bin immer auf der Suche nach neuen Herausforderungen und freue mich darauf, weiter zu wachsen und zu lernen.
   </div>
 </details>
 
