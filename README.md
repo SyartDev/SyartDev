@@ -9,11 +9,11 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 
   <h3>🧰 Programmiersprachen und Tools</h3>
   <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" \>
-  <img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"
-  <img align="left" alt="Visual Studio Code" width="60px" style="padding-right:10px;" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"
-  <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  <img align="left" alt="Udemy" width="60px" style="padding-right:10px;" src="https://github.com/SyartDev/SyartDev/assets/59890202/4668a93a-81d4-43cf-889d-82ebf7bb011b"
+  <img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" \>
+  <img align="left" alt="Visual Studio Code" width="60px" style="padding-right:10px;" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" \>
+  <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" \>
+  <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" \>
+  <img align="left" alt="Udemy" width="60px" style="padding-right:10px;" src="https://github.com/SyartDev/SyartDev/assets/59890202/4668a93a-81d4-43cf-889d-82ebf7bb011b" \>
 "
 " />
   <br clear="all"/>
