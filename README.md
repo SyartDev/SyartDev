@@ -8,16 +8,15 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 
 
   <h3>🧰 Programmiersprachen und Tools</h3>
-  <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" \>
-  <img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" \>
-  <img align="left" alt="Visual Studio Code" width="60px" style="padding-right:10px;" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" \>
-  <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" \>
-  <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" \>
-  <img style="float: left; padding-right: 10px;" alt="Udemy" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/39114f1d-c7b0-48fc-a65f-5bc651c2c3e5" >
-">
+ <img style="float: left; padding-right: 10px;" alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+<img style="float: left; padding-right: 10px;" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+<img style="float: left; padding-right: 10px;" alt="Visual Studio Code" width="60px" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">
+<img style="float: left; padding-right: 10px;" alt="GitHub" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img style="float: left; padding-right: 10px;" alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img style="float: left; padding-right: 10px;" alt="Udemy" width="60px" src="https://github.com/SyartDev/SyartDev/blob/main/assets/59890202/39114f1d-c7b0-48fc-a65f-5bc651c2c3e5.png?raw=true">
 
-"
-" />
+
+
   <br clear="all"/>
 <br /> 
 
