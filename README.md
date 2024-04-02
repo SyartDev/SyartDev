@@ -8,13 +8,6 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 
 
   <h3>🧰 Programmiersprachen und Tools</h3>
-<style>
-  .icon-img {
-    display: inline-block;
-    margin-right: 10px;
-  }
-</style>
-
 <img class="icon-img" alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <img class="icon-img" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
 <img class="icon-img" alt="Visual Studio Code" width="60px" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">
