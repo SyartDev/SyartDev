@@ -13,7 +13,8 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 <img style="float: left; padding-right: 10px;" alt="Visual Studio Code" width="60px" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">
 <img style="float: left; padding-right: 10px;" alt="GitHub" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img style="float: left; padding-right: 10px;" alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img style="float: left; padding-right: 10px;" alt="Udemy" width="60px" src="https://github.com/SyartDev/SyartDev/blob/main/assets/59890202/39114f1d-c7b0-48fc-a65f-5bc651c2c3e5.png?raw=true">
+<img style="float: left; padding-right: 10px;" alt="Udemy" width="60px" src="![image](https://github.com/SyartDev/SyartDev/assets/59890202/25dbdd70-ebf9-4714-a440-01814197b665)
+">
 
 
 
