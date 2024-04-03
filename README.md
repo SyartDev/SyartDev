@@ -1,4 +1,4 @@
-# 👋 Syart
+# 👋 alt="Syart" src"https://syart.dev"
 
 **`14 Jahre alt👨‍💻 | aus der Schweiz`**
 
