@@ -23,6 +23,6 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 <details>
   <summary>👨‍💻Meine Reise</summary>
   <div style="padding-left: 40px;">
-    
+    bald...
 </details>
 
