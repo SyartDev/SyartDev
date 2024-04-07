@@ -1,4 +1,4 @@
-# [👋 Syart](https://syart.dev)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=+Hallo!+%F0%9F%91%8B;Ich+bin+Syart!)](https://syart.dev)
 
 **`14 Jahre alt👨‍💻 | aus der Schweiz`**
 
