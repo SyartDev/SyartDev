@@ -2,7 +2,7 @@
 
 **`14 Jahre alt👨‍💻 | aus der Schweiz`**
 
-Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schweiz habe ich seit meinem zwölften Lebensjahr eine Leidenschaft für das Programmieren entwickelt. Mit zwei Jahren Erfahrung in C++, Python habe ich bereits eine solide Basis in beiden Programmiersprachen aufgebaut. Ich liebe es, kreative Lösungen für technische Probleme zu finden und mich ständig weiterzuentwickeln, um meine Fähigkeiten zu verbessern. Als junger Entwickler strebe ich danach, mein Wissen zu vertiefen und innovative Projekte zu realisieren.
+Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schweiz habe ich seit meinem zwölften Lebensjahr eine Leidenschaft für das Programmieren entwickelt. Ich liebe es, kreative Lösungen für technische Probleme zu finden und mich ständig weiterzuentwickeln, um meine Fähigkeiten zu verbessern. Als junger Entwickler strebe ich danach, mein Wissen zu vertiefen und innovative Projekte zu realisieren.
 
 # 
 
