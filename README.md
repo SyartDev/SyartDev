@@ -13,7 +13,7 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
   <img style="padding-right: 10px;" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
   <img style="padding-right: 10px;" alt="HTML" width="60px" src="https://www.flaticon.com/fr/icone-gratuite/html-5_732212">
   <img style="padding-right: 10px;" alt="CSS" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/baf0c861-af41-46f2-9a30-98851b2cb8df">
-  <img style="padding-right: 10px;" alt="Visual Studio Code" width="60px" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">
+  <img style="padding-right: 10px;" alt="Visual Studio Code" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/b5e92427-d144-4506-89c1-621bd64579f5">
   <img style="padding-right: 10px;" alt="GitHub" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img style="padding-right: 10px;" alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img style="padding-right: 10px;" alt="Udemy" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/25dbdd70-ebf9-4714-a440-01814197b665">
