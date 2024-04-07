@@ -11,7 +11,7 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 <div style="display: flex;">
   <img style="padding-right: 10px;" alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img style="padding-right: 10px;" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-  <img style="padding-right: 10px;" alt="HTML" width="60px" src="https://www.flaticon.com/fr/icone-gratuite/html-5_732212">
+  <img style="padding-right: 10px;" alt="HTML" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/2b376472-c1f3-4b79-b49d-b4038a04a086">
   <img style="padding-right: 10px;" alt="CSS" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/baf0c861-af41-46f2-9a30-98851b2cb8df">
   <img style="padding-right: 10px;" alt="Visual Studio Code" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/b5e92427-d144-4506-89c1-621bd64579f5">
   <img style="padding-right: 10px;" alt="GitHub" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
