@@ -12,7 +12,7 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
   <img style="padding-right: 10px;" alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img style="padding-right: 10px;" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
   <img style="padding-right: 10px;" alt="HTML" width="60px" src="https://www.flaticon.com/fr/icone-gratuite/html-5_732212">
-  <img style="padding-right: 10px;" alt="CSS" width="60px" src="![image](https://github.com/SyartDev/SyartDev/assets/59890202/e45bb55c-272c-4c24-8945-8d0ee6435dae)
+  <img style="padding-right: 10px;" alt="CSS" width="60px" src="https://github.com/SyartDev/SyartDev/assets/59890202/e45bb55c-272c-4c24-8945-8d0ee6435dae
 ">
   <img style="padding-right: 10px;" alt="Visual Studio Code" width="60px" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png">
   <img style="padding-right: 10px;" alt="GitHub" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
