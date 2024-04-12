@@ -17,6 +17,6 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 </div>
 
 
-#
+
 
 
