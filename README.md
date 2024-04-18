@@ -6,7 +6,7 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
   <a href="https://syart.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=syartdev&label=Profile%20views&color=orange&style=flat" alt="syartdev" /> </a>
   
 # 
 
