@@ -13,7 +13,7 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 
   <h3>🧰 Programmiersprachen und Tools</h3>
 <div style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,cpp,pycharm,vscode,github,git,discord,gmail,windows">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,cpp,pycharm,vscode,github,git,discord,udemy">
 </div>
 
 
