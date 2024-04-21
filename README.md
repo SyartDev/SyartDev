@@ -4,7 +4,7 @@
 Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schweiz habe ich seit meinem zwölften Lebensjahr eine Leidenschaft für das Programmieren entwickelt. Ich liebe es, kreative Lösungen für technische Probleme zu finden und mich ständig weiterzuentwickeln, um meine Fähigkeiten zu verbessern. Als junger Entwickler strebe ich danach, mein Wissen zu vertiefen und innovative Projekte zu realisieren.
 
   <a href="https://syart.dev" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=todoist&logoColor=white" target="https://syart.dev" /> 
   </a>
   
 # 
