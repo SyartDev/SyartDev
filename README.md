@@ -19,3 +19,8 @@ Als 14-jähriger Hobby Applikationsentwickler & Plattformentwickler aus der Schw
 
 
 
+###
+
+<img src="https://raw.githubusercontent.com/syartdev/syartdev/output/snake.svg" alt="Snake animation" />
+
+###
