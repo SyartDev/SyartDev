@@ -10,7 +10,7 @@
 
   <h3>🧰 Meine Skills</h3>
 <div style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,github,git">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
 </div>
 
 
