@@ -6,9 +6,7 @@
   </a>
   
 # 
-<details>
-  <summary>
-🧰 Meine Skills
+
+# 🧰 Meine Skills
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
-  </summary>
-</details>
+
