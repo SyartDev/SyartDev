@@ -5,8 +5,7 @@
      <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logoColor=white" target="https://syart.dev" /> 
   </a>
   
-# 
 
-# 🧰 Meine Skills
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
+<h2>🧰 Meine Skills</h2>
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
 
