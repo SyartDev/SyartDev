@@ -8,12 +8,19 @@
 # 
 
 
-  <h3>🧰 Meine Skills</h3>
-<div style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
+<h3>🧰 Meine Skills</h3>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,github,git,mongodb">
 </div>
 
+<h4>Bibliotheken & Frameworks:</h4>
+<div style="display: flex;">
+  <img src="https://skillicons.dev/icons?i=nodejs,react
+</div>
 
-
-
+<h4>Cloud & Bereitstellungen:</h4>
+<div style="display: flex;">
+  <!-- Füge hier Cloud- und Bereitstellungstechnologien hinzu, wie MongoDB, Vercel, SQL, etc. -->
+</div>
 
