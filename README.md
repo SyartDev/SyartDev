@@ -11,7 +11,7 @@
   <h3>🧰 Meine Skills</h3>
 <div style="display: flex;">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
-  <img src="https://skillicons.dev/icons?i= mongo, vercel">
+  <img src="https://skillicons.dev/icons?i= mongodb, vercel">
 </div>
 
 
