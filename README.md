@@ -8,5 +8,5 @@
 # 
 
 # 🧰 Meine Skills
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
 
