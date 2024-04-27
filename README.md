@@ -1,6 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=+Hello!;I+am+Syart!) ![](hello.gif)]
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=+Hello!;I+am+Syart!)](https://syart.dev)
 
 
 
