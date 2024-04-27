@@ -5,7 +5,6 @@
 
 * 🌍  I'm based in Switzerland
 * 🖥️  See my [portfolio](http://syart.dev)
-* ✉️  You can contact me at [info@syart.dev](mailto:info@syart.dev)
 
 <h2>🛠️ Tools and Programming Languages</h2>
 <a href="https://Syart.dev">
