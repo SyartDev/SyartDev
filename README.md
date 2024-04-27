@@ -7,5 +7,5 @@
   
 
 <h2>🧰 Meine Skills</h2>
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,sql,python,github,git">
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git">
 
