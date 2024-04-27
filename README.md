@@ -8,7 +8,7 @@
   
 
 <h2>🛠️ Tools and Programming Languages</h2>
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git,mongodb,docker">
+[<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git,mongodb,docker">](https://Syart.dev)
 
 
 
