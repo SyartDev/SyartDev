@@ -4,17 +4,14 @@
 
 
 * 🌍  I'm based in Switzerland
-* 🖥️  See my [portfolio](http://syart.dev)
+* 🖥️  See my [portfolio](http://syart.vercel.app)
 
 <h2>🛠️ Tools and Programming Languages</h2>
-<a href="https://Syart.dev">
+<a href="https://syart.vercel.app">
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git,mongodb,docker" alt="Skills">
 </a>
 
 
 
 
-<h2>Socials</h2>
 
-
-<p align="left"> </picture> </a> <a href="https://www.github.com/syartdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/24674002/syart" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
